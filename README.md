@@ -1,4 +1,4 @@
-# resume
+# Simple resume rust
 
 A simple resume for the web.
 
